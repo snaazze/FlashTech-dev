@@ -1,3 +1,21 @@
+### Hello there, I'm Karan Wagh 
+
+<a href="https://twitter.com/karannwagh">
+  <img align="left" alt="Karan Wagh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/karanwagh/">
+  <img align="left" alt="Karan's's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/__being__karan/">
+  <img align="left" alt="Karan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br />
+<br />
+
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Help me with Data Structures 😭.
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
