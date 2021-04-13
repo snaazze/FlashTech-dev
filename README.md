@@ -1,5 +1,6 @@
 ### Hello there, I'm Karan Wagh 
-![](https://komarev.com/ghpvc/?username=FlashTech-dev&color=red)
+![](https://komarev.com/ghpvc/?username=FlashTech-dev&color=blue)
+
 <a href="https://twitter.com/karannwagh">
   <img align="left" alt="Karan Wagh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
