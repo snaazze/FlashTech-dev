@@ -15,7 +15,7 @@
 <br />
 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Help me with Data Structures 😭.
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
